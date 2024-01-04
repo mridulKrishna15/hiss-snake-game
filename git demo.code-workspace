@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../dsa"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "project 3 snake"
+	}
+}
